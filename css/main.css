@@ -143,12 +143,9 @@ body {
 	display: table;
 } */
 .footer a {
-	color: #fada5a;
+	color: #ffcc00;
 	text-decoration: none;
 }
 .footer a:hover {
 	opacity: 0.8;
-}
-.footer a:visited {
-	color: #2714d3;
 }
